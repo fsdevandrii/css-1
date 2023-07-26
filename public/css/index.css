@@ -29,7 +29,7 @@ section p {
   background: red;
 }
 
-section div {
+.box {
   background: green;
 }
 
